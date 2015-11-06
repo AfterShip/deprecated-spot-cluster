@@ -1,4 +1,8 @@
-## What it does?
+## TODO
+
+https://github.com/AfterShip/spot-cluster/issues/1
+
+## What it does by spot-cluster?
 
 Auto manage AWS spot instance cluster by evenly distributed to zones and types.
 
@@ -49,9 +53,6 @@ npm install
 npm start
 
 ```
-
-## TODO
-https://github.com/AfterShip/spot-cluster/issues/1
 
 ## Release History
 
