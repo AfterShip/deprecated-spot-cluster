@@ -1,7 +1,7 @@
 {
   "name": "spot-cluster",
   "description": "Auto manage AWS spot instance cluster by evenly distributed to zones and types.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/AfterShip/spot-cluster",
   "author": {
     "name": "AfterShip",

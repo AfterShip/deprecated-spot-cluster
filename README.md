@@ -47,11 +47,20 @@ Auto manage AWS spot instance cluster by evenly distributed to zones and types.
     ]
 }
 
-## How to run?
 ```
+
+## How to run?
+
+```
+git clone git@github.com:AfterShip/spot-cluster.git
+cd spot-cluster
 npm install
 npm start
 
+OR
+
+npm install -g spot-cluster
+spot-cluster -p 3030
 ```
 
 ## Release History
